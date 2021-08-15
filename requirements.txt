@@ -4,7 +4,6 @@ numpy
 matplotlib
 seaborn
 numpy
-PIL 
 Image
 requests
 yfinance
